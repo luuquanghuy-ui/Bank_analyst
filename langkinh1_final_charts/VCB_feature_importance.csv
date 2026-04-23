@@ -1,0 +1,13 @@
+feature,label,group,mean_abs_shap,std_abs_shap,rank
+usd_vnd_lag1,USD/VND (t-1),Macro,0.0030344466,0.002500175,1
+vn30_lag1,VN30 (t-1),Macro,0.0023651088,0.0013924582,2
+rsi_lag1,RSI (t-1),Technical,0.0017705405,0.0015457002,3
+volatility_lag2,Volatility 20d (t-2),Technical,0.001698353,0.0013337093,4
+volatility_lag1,Volatility 20d (t-1),Technical,0.0015212975,0.0011993079,5
+return_lag3,Return (t-3),Technical,0.0014034017,0.0010713167,6
+return_lag1,Return (t-1),Technical,0.0010435644,0.00071599125,7
+return_lag2,Return (t-2),Technical,0.00080559053,0.00090063334,8
+return_lag5,Return (t-5),Technical,0.000717708,0.0008519869,9
+volume_lag1,Volume (t-1),Technical,0.00057928497,0.00051752425,10
+vnindex_lag1,VNIndex (t-1),Macro,0.0005683559,0.00049206684,11
+interest_rate_lag1,Interest Rate (t-1),Macro,0.00017771317,0.00017407362,12

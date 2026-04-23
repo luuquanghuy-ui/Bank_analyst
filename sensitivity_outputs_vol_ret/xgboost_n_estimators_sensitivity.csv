@@ -1,0 +1,13 @@
+bank,parameter,value,target,mae
+BID,n_estimators,50,volatility,0.012287113679551624
+BID,n_estimators,100,volatility,0.0126054074169773
+BID,n_estimators,150,volatility,0.012722984162627222
+BID,n_estimators,200,volatility,0.012720960320137996
+CTG,n_estimators,50,volatility,0.010888694482522285
+CTG,n_estimators,100,volatility,0.011056683744862593
+CTG,n_estimators,150,volatility,0.011246028754578363
+CTG,n_estimators,200,volatility,0.011420742295940771
+VCB,n_estimators,50,volatility,0.009857046214262933
+VCB,n_estimators,100,volatility,0.010379272035397133
+VCB,n_estimators,150,volatility,0.010575374538509022
+VCB,n_estimators,200,volatility,0.01066809608259188

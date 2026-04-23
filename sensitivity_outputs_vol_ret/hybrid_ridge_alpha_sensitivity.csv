@@ -1,0 +1,13 @@
+bank,parameter,value,target,mae
+BID,ridge_alpha,0.1,volatility,0.013371274138269313
+BID,ridge_alpha,1.0,volatility,0.01306818797825607
+BID,ridge_alpha,10.0,volatility,0.013069011599467535
+BID,ridge_alpha,100.0,volatility,0.01307609891689809
+CTG,ridge_alpha,0.1,volatility,0.012618827653922261
+CTG,ridge_alpha,1.0,volatility,0.012119018799026049
+CTG,ridge_alpha,10.0,volatility,0.011994238295430894
+CTG,ridge_alpha,100.0,volatility,0.011983062964425167
+VCB,ridge_alpha,0.1,volatility,0.010943109141356646
+VCB,ridge_alpha,1.0,volatility,0.011635048893204207
+VCB,ridge_alpha,10.0,volatility,0.012130856110350155
+VCB,ridge_alpha,100.0,volatility,0.012201617132691843
